@@ -5,7 +5,7 @@ New and improved Version of Nagios Checks via ZAPI (https://github.com/aleex42/n
 
 ## ONTAP Version support
 
-These scripts will only work with ONTAP 9.8 or later
+These scripts will only work with ONTAP 9.6 or later
 
 ## Plugins
 
