@@ -20,9 +20,11 @@ Currently there are the following checks:
 # Usage example
 
 > ./check_aggr.pl --hostname 192.168.178.56 --username USER --password PW --warning 80 --critical 90 --perf
+
 OK: aggr1 (0%), aggr2 (0%)| aggr1=1159168B;76080644096;85590724608;0;95100805120 aggr2=1654784B;114131369984;128397791232;0;142664212480
 
 > ./check_aggr.pl --hostname 192.168.178.56 --username USER --password PW --warning 80 --critical 90
+
 OK: aggr1 (0%), aggr2 (0%)
 
 
