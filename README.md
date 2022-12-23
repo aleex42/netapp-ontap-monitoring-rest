@@ -3,7 +3,7 @@ NetApp Monitoring over REST-API (Nagios, Icinga, CheckMK, etc.)
 
 
 
-# Requirements 
+# Requirements (Debian / Ubuntu)
 
- apt install libio-socket-ssl-perl liblwp-protocol-https-perl libjson-xs-perl
+> apt install libio-socket-ssl-perl liblwp-protocol-https-perl libjson-xs-perl
 
