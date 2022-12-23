@@ -170,7 +170,6 @@ if($critical > 0) {
 
 sub json_from_call($) {
 
-        # Parameter: z. B. "/cluster"
         my $url = shift;
 
         my $req = HTTP::Request->new( GET => "https://$Hostname/api$url" );
