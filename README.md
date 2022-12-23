@@ -12,6 +12,7 @@ These scripts will only work with ONTAP 9.8 or later
 Currently there are the following checks:
 
 * check_aggr: Aggregate Space Usage (also supports performance data)
+* check_volume: Volume Space & Inode Usage (also supports performance data)
 
 ## Requirements (Debian / Ubuntu)
 
