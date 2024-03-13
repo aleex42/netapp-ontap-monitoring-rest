@@ -242,4 +242,5 @@ to see this Documentation
 
 =head1 AUTHORS
 
- Daniel Heß <Daniel.Hess at roland-rechtsschutz.de>
+Alexander Krogloth <git at krogloth.de>
+Daniel Heß <Daniel.Hess at roland-rechtsschutz.de>
