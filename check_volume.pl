@@ -227,6 +227,9 @@ foreach my $vol (sort { $a->{name} cmp $b->{name} } @$volumes){
 		}
 	}
 
+	# Skip if volume offline
+	next unless $vol->{'files'};
+
 	my $inode_used = $vol->{'files'}->{'used'};
 	my $inode_total = $vol->{'files'}->{'maximum'};
 
