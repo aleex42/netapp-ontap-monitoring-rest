@@ -32,10 +32,8 @@ OK: aggr1 (0%), aggr2 (0%)
 
 ## Contact / Author
 
-Alexander Krogloth
-<git at krogloth.de>
-Daniel Heß
-<Daniel.Hess at roland-rechtsschutz.de>
+Alexander Krogloth <git at krogloth.de>
+Daniel Heß <Daniel.Hess at roland-rechtsschutz.de>
 
 # License
 
