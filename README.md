@@ -13,6 +13,7 @@ Currently there are the following checks:
 
 * check_aggr: Aggregate Space Usage (also supports performance data)
 * check_volume: Volume Space & Inode Usage (also supports performance data)
+* check_lun: Lun Usage (also supports performance data)
 
 ## Requirements (Debian / Ubuntu)
 
@@ -33,6 +34,8 @@ OK: aggr1 (0%), aggr2 (0%)
 
 Alexander Krogloth
 <git at krogloth.de>
+Daniel Heß
+<Daniel.Hess at roland-rechtsschutz.de>
 
 # License
 
